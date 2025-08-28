@@ -1,1 +1,6 @@
-day 1 devops class is about git introduction and creation of local repository
+class main{
+	public static void main(Static args[])
+	{
+		System.out.println("Hello world"):
+	}
+}
